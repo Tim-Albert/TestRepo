@@ -4,5 +4,5 @@
 User: 
 
 Tim Albert [x]
-Eleke Aeikens []
+Elke Aeikens []
 Malte Wischer []
